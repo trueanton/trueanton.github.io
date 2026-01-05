@@ -12,9 +12,9 @@ subtitle: Robotics/Vision/LLM enthusiast
 </div>
 <div class="unit golden-large">
 <div class="lead lead-about">
-Hello! My name is Anton. I'm an ML researcher focused on building reliable intelligent systems. My work bridges 3D computer vision for robotics (point cloud segmentation, detection) and modern LLM research (fine-tuning, safety,LLM-based agents). 
+Hello! My name is Anton. I'm an ML researcher focused on building reliable intelligent systems. My work bridges 3D computer vision for robotics (point cloud segmentation, detection) and modern LLM research (fine-tuning, safety, LLM-based agents). 
 
-I am currently working as a Lead Machine Learning Researcher(Core LLM (RND) team) at [WB Tech (Wildberries)](https://wbtech.wildberries.ru/) in Russia. Before my current role, I worked as a Lead Computer Vision Engineer for the AI Lab at Innopolis University in Russia.
+I am currently working as a Lead Machine Learning Researcher (Core LLM (RND) team) at [WB Tech (Wildberries)](https://wbtech.wildberries.ru/) in Russia. Before my current role, I worked as a Lead Computer Vision Engineer for the AI Lab at Innopolis University in Russia.
 
  I received my <strong>Master of Science in Space and Engineering Systems</strong> at [Skolkovo Institute of Science and Technology (Skoltech)](https://www.skoltech.ru/en/) in June 2020 — including a six-month research visit at the [Robotics Institute](https://www.ri.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/).
 </div>
