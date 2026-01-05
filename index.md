@@ -2,21 +2,19 @@
 layout: page
 title: Anton Egorov
 head_title: Home
-subtitle: Robotics enthusiast
+subtitle: Robotics/Vision/LLM enthusiast
 ---
 
 <div class="pretty-links">
 <div class="grid">
 <div class="unit golden-small profile-pic">
-<img class='site-profile' src="/assets/img/img_update.jpg">
+<img class='site-profile' src="/assets/img/IMG_3792.JPG">
 </div>
 <div class="unit golden-large">
 <div class="lead lead-about">
-Hello! My name is Anton. I'm a researcher in autonomous robotics with a particular interest in computer vision (3D point cloud semantic segmentation and detection) and deep learning for robust 3D perception. I am also broadly interested in SLAM and building reconstraction.
+Hello! My name is Anton. I'm an ML researcher focused on building reliable intelligent systems. My work bridges 3D computer vision for robotics (point cloud segmentation, detection) and modern LLM research (fine-tuning, safety,LLM-based agents). 
 
-<!-- I am currently working as a Lead Computer Vision Engineer for the AI Lab at Innopolis University in Russia and remotely as a Research Assistant at Oregon State University in the USA. Before my current role, I worked as a Data Scientist for the ML Matching Team at [OZON](https://corp.ozon.com/) Technology in Russia. Prior to that, I served as a Middle Software Developer for the Localization and Mapping (SLAM) team) within the Self-Driving Group at the same company. In that role, I focused on developing the algorithms that underlie SLAM. -->
-
-Recently I finished my job as a Lead Computer Vision Engineer for the AI Lab at Innopolis University in Russia. Before my current role, I worked as a Data Scientist for the ML Matching Team at [OZON](https://corp.ozon.com/) Technology in Russia. Prior to that, I served as a Middle Software Developer for the Localization and Mapping (SLAM) team) within the Self-Driving Group at the same company. In that role, I focused on developing the algorithms that underlie SLAM.
+I am currently working as a Lead Machine Learning Researcher(Core LLM (RND) team) at [WB Tech (Wildberries)](https://wbtech.wildberries.ru/) in Russia. Before my current role, I worked as a Lead Computer Vision Engineer for the AI Lab at Innopolis University in Russia.
 
  I received my <strong>Master of Science in Space and Engineering Systems</strong> at [Skolkovo Institute of Science and Technology (Skoltech)](https://www.skoltech.ru/en/) in June 2020 — including a six-month research visit at the [Robotics Institute](https://www.ri.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/).
 </div>
@@ -37,8 +35,8 @@ My Master's research work was based at [Biorobotics Lab](http://biorobotics.ri.c
 * the web chair for the upcoming [Conference on Robot Learning (CoRL 2020)](https://www.robot-learning.org/).  -->
 
 Recently...
-<!-- * [Apr 2023] The submission for the two challenges in the "Computer Vision in the Built Environment" CVPR 2023 Workshop is now open until June 5th. For more details see [here](https://cv4aec.github.io/)
-* [Apr 2022] Co-organizer (Development Team) of 2nd [Workshop](https://cv4aec.github.io/) and Challenge on Computer vision in the build environment for the design, construction, and operation of buildings segmentations. Held in conjunction with the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2022, New Orleans, Louisiana, USA, June 2022. -->
+<!-- * [Apr 2023] The submission for the two challenges in the "Computer Vision in the Built Environment" CVPR 2023 Workshop is now open until June 5th. For more details see [here](https://cv4aec.github.io/)-->
+* [Jun 2024] Co-organizer (Development Team) of 4th [Workshop](https://cv4aec.github.io/) and Challenge on Computer vision in the build environment for the design, construction, and operation of buildings segmentations. Held in conjunction with the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2024, Seattle, WA, US 
 * [Dec 2021] Co-authored work titled *PSE-Match: A Viewpoint-free Place Recognition Method with Parallel Semantic Embedding*. Research has been accepted for publication in IEEE Transactions on Intelligent Transportation Systems journal (T-ITS 2021) ([Official Page](https://ieeexplore.ieee.org/abstract/document/9523568)).
 * [Oct 2021]Co-authored work titled *Fast Sequence-matching Enhanced orientation-invariant 3D Place Recognition*. Research has been accepted for publication in IEEE Transactions on Industrial Electronics journal (TIE 2021) ([Official Page](https://ieeexplore.ieee.org/abstract/document/9351776)).
 * [Jun 2020] Co-authored work titled *SeqSphereVLAD: Sequence Matching Enhanced Orientation-Invariant Place Recognition*. Research has been accepted for publication and presented at IROS 2020<!-- ([Official Page](https://roboticsconference.org/program/papers/7/), [<i class="fa fa-book"></i> arXiv preprint](https://arxiv.org/abs/2006.01031), --> <br>([Official Page](https://ieeexplore.ieee.org/abstract/document/9341727), [<i class="fa fa-youtube"></i> Video](https://www.youtube.com/watch?v=MB3CF2yy2EU)).
